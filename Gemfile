@@ -1,3 +1,5 @@
+ruby '1.9.3'
+
 source 'http://rubygems.org'
 
 gem 'rails', '3.1.0'
@@ -6,6 +8,7 @@ gem 'rails', '3.1.0'
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
 gem 'pg'
+
 
 gem 'surveyor', :git => 'https://github.com/NUBIC/surveyor.git'
 gem 'execjs'
